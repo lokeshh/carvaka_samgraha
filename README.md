@@ -1,5 +1,7 @@
 # चार्वाक-संग्रहः
 
+Deployed at - [https://lokeshh.github.io/carvaka](https://lokeshh.github.io/carvaka_samgraha/)
+
 
 ### सर्वदर्शनसंग्रहः
 
